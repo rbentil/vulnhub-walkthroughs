@@ -1,5 +1,3 @@
-Certainly! Here's an updated README template with additional fields:
-
 ---
 
 # Vulnhub Walkthroughs
