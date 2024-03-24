@@ -8,9 +8,9 @@ Welcome to the Vulnhub Walkthroughs repository! This repository contains detaile
 
 ## Table of Contents
 
-- [Machine 1: ICA1](ICA1_walkthrough.md)
-- [Machine 2: Example Machine](example_machine_walkthrough.md)
-- [Machine 3: Another Example](another_example_walkthrough.md)
+- [Machine 1: ICA1](ica1_walkthrough.md)
+- [Machine 2: The Planets:Earth](<!-- Coming soon -->)
+- [Machine 3: The Planets:Mercury](<!-- Coming soon -->)
 
 ## Contributing
 
