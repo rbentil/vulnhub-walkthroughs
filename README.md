@@ -30,5 +30,3 @@ We would like to thank the creators of Vulnhub for providing a platform for lear
 This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the contents of this repository, provided you give appropriate credit and include a copy of the license.
 
 ---
-
-You can name the repository something like `vulnhub-walkthroughs` or `vulnhub-guides`. Choose a name that accurately reflects the content and purpose of the repository.
